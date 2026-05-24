@@ -11,7 +11,7 @@
 # Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naveen-manoj-56549925a/" target="_blank">
+  <a href="https://www.linkedin.com/in/naveenplankala/" target="_blank">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:nm.plankala.wyler@gmail.com" target="_blank">

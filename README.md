@@ -14,10 +14,10 @@
   <a href="https://www.linkedin.com/in/naveen-manoj-56549925a/" target="_blank">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:manojnaveen085@gmail.com" target="_blank">
+  <a href="mailto:nm.plankala.wyler@gmail.com" target="_blank">
     <img height="30" src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/manojnaveen085/" target="_blank">
+  <a href="https://leetcode.com/u/neevan0842/" target="_blank">
     <img height="30" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
@@ -60,6 +60,6 @@
 # Stats
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=naveenplankala&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="186em" width="400em" style="padding: 3px;"/>
+  <img src="https://streak-stats.demolab.com?user=naveenplankala&theme=dark&hide_border=true" alt="GitHub Streak Stats" height="186em" width="400em" style="padding: 3px;"/>
   <img src="https://github-readme-stats-one.vercel.app/api?username=naveenplankala&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="186em" width="400em" style="padding: 3px;"/>
 </div>

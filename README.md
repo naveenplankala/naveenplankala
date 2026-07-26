@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  Backend Developer and Machine Learning Engineer turning complex ideas into robust APIs and data-driven insights.
+  I'm a Site Reliability Engineer at Media.net with a background in backend development and machine learning.
 </h3>
 
 <br>
@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/naveenplankala/" target="_blank">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:nm.plankala.wyler@gmail.com" target="_blank">
+  <a href="mailto:nm.plankala@gmail.com" target="_blank">
     <img height="30" src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/neevan0842/" target="_blank">
